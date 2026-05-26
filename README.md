@@ -17,6 +17,7 @@ cost/latency/quality trade-offs behind every decision.
   improving long-context performance by 40%.
 - **Mavenir** — *R&D Intern.* Built transformer-based NER systems for the O-RAN
   domain using Hugging Face, improving entity extraction accuracy by 15–25%.
+- **Brainly** — *Subject Matter Expert (Mathematics).* Worked as an Online Tutor at Brainly, helping students solve Mathematics and Physics problems while strengthening problem-solving, explanation, and analytical communication skill.
 
 ### 🛠️ Tech Stack
 **Languages:** `Python` · `SQL` · `C++`
@@ -27,6 +28,8 @@ cost/latency/quality trade-offs behind every decision.
 ### 🚀 Featured Projects
 - **Mobility-aware Deep RL for 5G HetNets** — GNN + DDPG for bandwidth
   optimization under dynamic network conditions.
+- **Fleet Logistics Churn Optimization** — Advanced SQL pipeline utilizing window 
+  functions and recursive CTEs to track operational metrics and predict partner churn.
 - **LLM-Powered Business Operations Copilot** — RAG pipeline with retrieval
   optimization, source attribution, and hallucination mitigation.
 - **Multimodal RAG for Document QA** — optimized chunking and retrieval,
